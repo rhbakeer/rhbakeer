@@ -7,3 +7,5 @@ Video how to deploy it:
 https://youtu.be/E1dqffpUlMA
 ## Credits
 Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
+
+next steps: incorporate previous projects to get more green boxes!!
